@@ -1,94 +1,88 @@
 # Enzo Lautaro Patiño
 ### Desarrollador Web · Linux · Open Source
 
-Construyo aplicaciones web reales: desde la interfaz hasta la base de datos y el despliegue. Actualmente desarrollo **DistroVantix**, una plataforma para ayudar a usuarios a elegir su distribución Linux, con autenticación, foro comunitario y PostgreSQL en producción.
+Construyo aplicaciones web reales: desde la interfaz hasta la base de datos, la arquitectura y el despliegue. Creador de **DistroVantix**, una plataforma diseñada para guiar a nuevos usuarios en el ecosistema Linux.
 
-Me interesa el software que resuelve problemas concretos, está bien documentado y corre en Linux.
-
----
-
-## Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+> *"Me enfoco en desarrollar software que resuelve problemas concretos, bien documentado y optimizado para correr en entornos Linux."*
 
 ---
 
-## Proyectos
+##  Tech Stack
 
-### [DistroVantix](https://github.com/EnzoPatino/DistroVantix) · [distro-vantix.vercel.app](https://distro-vantix.vercel.app/)
-
-> Plataforma que ayuda a usuarios nuevos a elegir su distribución Linux según su perfil: gaming, desarrollo, ciberseguridad, personalización y más.
-
-Rompe el mito de que Linux es solo para expertos. Incluye documentación clara, páginas dedicadas por distribución (CachyOS, Bazzite, Kali, Arch, Ubuntu y más) y una comunidad integrada.
-
-**Lo que construí:**
-- Autenticación de usuarios, perfiles y roles con Supabase
-- Foro comunitario con comentarios y políticas RLS en PostgreSQL
-- Diseño responsive con CSS personalizado sin frameworks
-- Despliegue continuo en Vercel con Git
-- Documentación técnica: requisitos de usuario, roles, diagrama ER
-
-`HTML5` `CSS3` `JavaScript` `Supabase` `PostgreSQL` `Vercel`
+<p align="left">
+  <strong>Lenguajes & Sistemas:</strong><br>
+  <img src="https://skillicons.dev/icons?i=linux,cpp,php,js,html,css" alt="Languages & Systems" /><br><br>
+  <strong>Bases de Datos & Cloud:</strong><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" alt="Databases & Cloud" /><br><br>
+  <strong>Herramientas & Infraestructura:</strong><br>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel" alt="Tools & Infra" />
+</p>
 
 ---
 
-### [AutoNova](https://github.com/EnzoPatino/Proyecto_Final_Taller)
+##  Proyectos Destacados
 
-> Catálogo web de autos con panel administrativo CRUD completo.
+### [DistroVantix](https://github.com/EnzoPatino/DistroVantix) · [![Vercel](https://img.shields.io/badge/Deploy-Vercel-success?style=flat-square&logo=vercel)](https://distro-vantix.vercel.app/)
 
-Sitio con páginas individuales por marca y modelo (Audi, Ferrari, Ford, Mercedes-Benz, Chevrolet) y un panel de administración para gestionar autos, precios y descripciones desde el navegador.
+> Plataforma web que ayuda a usuarios nuevos a elegir su distribución Linux según su perfil: gaming, desarrollo, ciberseguridad, personalización y más.
 
-**Lo que construí:**
-- CRUD completo conectado a MySQL con formularios en PHP
-- Páginas individuales por vehículo con CSS personalizado
-- Panel administrativo con Bootstrap
+Rompe la barrera de entrada al ecosistema Linux. Incluye documentación clara, páginas dedicadas por distribución (CachyOS, Bazzite, Kali, Arch, Ubuntu) y un foro comunitario integrado.
 
-`HTML5` `CSS3` `PHP` `MySQL` `Bootstrap`
+**Aspectos técnicos & construcción:**
+- **Autenticación y Roles:** Gestión de usuarios y permisos con Supabase Auth.
+- **Base de Datos & Seguridad:** Foro comunitario persistente en PostgreSQL con políticas **RLS (Row Level Security)** para aislamiento de datos.
+- **UI/UX:** Layout responsive construido en CSS3 nativo, sin frameworks externos.
+- **CI/CD:** Despliegue continuo en Vercel integrado al flujo de trabajo de Git.
+- **Documentación:** Requisitos de usuario, definición de roles y modelo Entidad-Relación (ER).
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,supabase,postgres,vercel" alt="DistroVantix Tech Stack" />
+</p>
 
 ---
 
-### [D1OS Cup](https://github.com/EnzoPatino/D1os-Cup.git)
+###  [AutoNova](https://github.com/EnzoPatino/Proyecto_Final_Taller)
 
-> Tienda web para un torneo de fútbol: entradas, camisetas y accesorios.
+> Catálogo web de vehículos con panel de administración CRUD completo.
 
-Interfaz de una sola página con navegación lateral, carrito de compras funcional, filtros por categoría y assets propios del torneo.
+Sitio con fichas individuales por marca y modelo (Audi, Ferrari, Ford, Mercedes-Benz, Chevrolet) y un panel administrativo para gestionar catálogo, precios y especificaciones en tiempo real.
 
-**Lo que construí:**
-- Carrito con cantidades, subtotales y eliminación de productos en JavaScript puro
-- Sidebar, topbar, badges, modales y notificaciones visuales
-- Assets propios: logo, camisetas, campera, gorra
+**Aspectos técnicos & construcción:**
+- **Backend & Database:** Sistema CRUD desarrollado en PHP nativo conectado a MySQL con consultas preparadas.
+- **Frontend & Admin Panel:** Interfaz de administración responsiva estructurada con Bootstrap y fichas de producto con CSS personalizado.
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,php,mysql,bootstrap" alt="AutoNova Tech Stack" />
+</p>
+
+---
+
+###  [D1OS Cup](https://github.com/EnzoPatino/D1os-Cup.git)
+
+> Tienda web interactiva para un torneo de fútbol: entradas, indumentaria y accesorios.
+
+Single Page Application (SPA) orientada a e-commerce con navegación lateral, carrito de compras funcional en cliente, filtros por categoría y assets propios.
+
+**Aspectos técnicos & construcción:**
+- **Lógica de Estado:** Carrito de compras en JavaScript puro (Vanilla JS) con manejo de cantidades, cálculo de subtotales y modificación del DOM en tiempo real.
+- **Componentes UI:** Sidebar, topbar, badges, ventanas modales y notificaciones de estado personalizadas.
 
 `HTML5` `CSS3` `JavaScript` `Lucide Icons`
 
 ---
 
-## En progreso
+##  Enfoque Actual & Infraestructura
 
-Áreas donde estoy creciendo activamente:
+Profundizando activamente en la administración de sistemas y despliegue de software:
 
-- **Servidores Linux** — nginx, SSH, administración básica de sistemas
-- **Docker** — contenedores, imágenes, docker-compose para desarrollo local
-- **Seguridad web** — RLS, autenticación, políticas de acceso
-- **Despliegue** — CI/CD, variables de entorno, producción con Vercel
-
----
-
-## Contacto
-
--  GitHub: [github.com/EnzoPatino](https://github.com/EnzoPatino)
--  Proyecto principal: [distro-vantix.vercel.app](https://distro-vantix.vercel.app/)
+- **Servidores Linux:** Configuración de `nginx`, gestión de permisos, acceso remoto seguro vía SSH y automatización.
+- **Contenedorización:** Empaquetado de aplicaciones y entornos de desarrollo reproducible con Docker y `docker-compose`.
+- **Seguridad Web:** Implementación de políticas de acceso (RLS), sanitización de entradas y manejo seguro de variables de entorno.
+- **Despliegue & CI/CD:** Flujos de trabajo continuos con Git, GitHub y entornos de producción en Vercel.
 
 ---
 
-> *"DistroVantix: Tu PC, tu libertad."*
+##  Contacto
+
+- **GitHub:** [@EnzoPatino](https://github.com/EnzoPatino)
+- **Proyecto Principal:** [DistroVantix en vivo](https://distro-vantix.vercel.app/)

@@ -1,13 +1,24 @@
-# Enzo Lautaro Patiño
-### Desarrollador Web · Linux · Open Source
+# 🚀 Enzo Lautaro Patiño
 
-Construyo aplicaciones web reales: desde la interfaz hasta la base de datos, la arquitectura y el despliegue. Creador de **DistroVantix**, una plataforma diseñada para guiar a nuevos usuarios en el ecosistema Linux.
+**Desarrollador Web Full-Stack | Linux & Open Source**
+
+Construyo aplicaciones web reales: desde la interfaz hasta la base de datos, la arquitectura y el despliegue. Creador de **DistroVantix**, una plataforma diseñada para guiar a nuevos usuarios en el ecosistema Linux con soluciones prácticas y documentación clara.
 
 > *"Me enfoco en desarrollar software que resuelve problemas concretos, bien documentado y optimizado para correr en entornos Linux."*
 
 ---
 
-##  Tech Stack
+## 💼 Sobre mí
+
+- 🎯 Desarrollo web orientado a soluciones reales y mantenibles
+- 🐧 Especialización en entornos Linux y administración básica de sistemas
+- 🏗️ Construcción de aplicaciones con enfoque en arquitectura, seguridad y despliegue
+- 📚 fuerte interés en infraestructura, CI/CD y automatización
+- 🔐 Mejores prácticas en RLS, validación de datos y manejo seguro de entorno
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="left">
   <strong>Lenguajes & Sistemas:</strong><br>
@@ -20,9 +31,12 @@ Construyo aplicaciones web reales: desde la interfaz hasta la base de datos, la 
 
 ---
 
-##  Proyectos Destacados
+## ⭐ Proyectos Destacados
 
-### [DistroVantix](https://github.com/EnzoPatino/DistroVantix) · [![Vercel](https://img.shields.io/badge/Deploy-Vercel-success?style=flat-square&logo=vercel)](https://distro-vantix.vercel.app/)
+### 🌐 [DistroVantix](https://github.com/EnzoPatino/DistroVantix)
+
+[![Vercel](https://img.shields.io/badge/Deploy-Vercel-success?style=flat-square&logo=vercel)](https://distro-vantix.vercel.app/)
+[![GitHub Stars](https://img.shields.io/github/stars/EnzoPatino/DistroVantix?style=flat-square&logo=github)](https://github.com/EnzoPatino/DistroVantix)
 
 > Plataforma web que ayuda a usuarios nuevos a elegir su distribución Linux según su perfil: gaming, desarrollo, ciberseguridad, personalización y más.
 
@@ -41,7 +55,7 @@ Rompe la barrera de entrada al ecosistema Linux. Incluye documentación clara, p
 
 ---
 
-###  [AutoNova](https://github.com/EnzoPatino/Proyecto_Final_Taller)
+### 🚗 [AutoNova](https://github.com/EnzoPatino/Proyecto_Final_Taller)
 
 > Catálogo web de vehículos con panel de administración CRUD completo.
 
@@ -57,7 +71,7 @@ Sitio con fichas individuales por marca y modelo (Audi, Ferrari, Ford, Mercedes-
 
 ---
 
-###  [D1OS Cup](https://github.com/EnzoPatino/D1os-Cup.git)
+### ⚽ [D1OS Cup](https://github.com/EnzoPatino/D1os-Cup.git)
 
 > Tienda web interactiva para un torneo de fútbol: entradas, indumentaria y accesorios.
 
@@ -71,7 +85,27 @@ Single Page Application (SPA) orientada a e-commerce con navegación lateral, ca
 
 ---
 
-##  Enfoque Actual & Infraestructura
+## 🎓 Habilidades Técnicas
+
+### Backend & Bases de Datos
+- **PHP Nativo:** Desarrollo fullstack sin frameworks, consultas preparadas, validación robusta.
+- **PostgreSQL & MySQL:** Diseño de esquemas, manejo de datos relacionales y seguridad.
+- **Supabase:** Autenticación, políticas de acceso y desarrollo rápido con backend gestionado.
+
+### Frontend & UI/UX
+- **HTML5 + CSS3:** Layouts responsivos, accesibilidad y estilos propios.
+- **JavaScript Vanilla:** DOM, eventos, lógica de estado y optimización de UI.
+- **Bootstrap:** Prototipado y componentes visuales rápidos.
+
+### Infraestructura & DevOps
+- **Linux Administration:** Configuración de `nginx`, permisos, SSH y automatización.
+- **Docker & Docker Compose:** Contenedorización y entornos reproducibles.
+- **CI/CD:** Git + GitHub + despliegues en Vercel.
+- **Seguridad Web:** RLS, sanitización de entradas y control de acceso.
+
+---
+
+## 🔧 Enfoque Actual & Infraestructura
 
 Profundizando activamente en la administración de sistemas y despliegue de software:
 
@@ -82,7 +116,21 @@ Profundizando activamente en la administración de sistemas y despliegue de soft
 
 ---
 
-##  Contacto
+## 📊 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EnzoPatino&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoPatino&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🤝 Contacto
 
 - **GitHub:** [@EnzoPatino](https://github.com/EnzoPatino)
 - **Proyecto Principal:** [DistroVantix en vivo](https://distro-vantix.vercel.app/)
+
+<p align="center">
+  <strong>Siempre abierto a colaborar en proyectos Open Source.</strong>
+</p>

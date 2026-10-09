@@ -1,24 +1,24 @@
-# 🚀 Enzo Lautaro Patiño
+# Enzo Lautaro Patiño
 
-**Desarrollador Web Full-Stack | Linux & Open Source**
+### Desarrollador Web · Linux · Open Source
 
-Construyo aplicaciones web reales: desde la interfaz hasta la base de datos, la arquitectura y el despliegue. Creador de **DistroVantix**, una plataforma diseñada para guiar a nuevos usuarios en el ecosistema Linux con soluciones prácticas y documentación clara.
+Construyo aplicaciones web reales: desde la interfaz hasta la base de datos, la arquitectura y el despliegue. Creador de DistroVantix, una plataforma diseñada para guiar a nuevos usuarios en el ecosistema Linux con información clara, práctica y moderna.
 
-> *"Me enfoco en desarrollar software que resuelve problemas concretos, bien documentado y optimizado para correr en entornos Linux."*
-
----
-
-## 💼 Sobre mí
-
-- 🎯 Desarrollo web orientado a soluciones reales y mantenibles
-- 🐧 Especialización en entornos Linux y administración básica de sistemas
-- 🏗️ Construcción de aplicaciones con enfoque en arquitectura, seguridad y despliegue
-- 📚 fuerte interés en infraestructura, CI/CD y automatización
-- 🔐 Mejores prácticas en RLS, validación de datos y manejo seguro de entorno
+> "Me enfoco en desarrollar software que resuelve problemas concretos, está bien documentado y está preparado para correr en entornos Linux con criterio y estabilidad."
 
 ---
 
-## 🛠️ Tech Stack
+## Sobre mí
+
+- Desarrollo web con enfoque en soluciones funcionales, escalables y bien estructuradas.
+- Especialización en entornos Linux, infraestructura básica y despliegue profesional.
+- Construcción de aplicaciones con enfoque en seguridad, rendimiento y experiencia de usuario.
+- Interés continuo en DevOps, automatización, CI/CD y buenas prácticas de desarrollo.
+- Trabajo con bases de datos relacionales, autenticación, políticas de acceso y despliegues en producción.
+
+---
+
+## Tech Stack
 
 <p align="left">
   <strong>Lenguajes & Sistemas:</strong><br>
@@ -31,23 +31,20 @@ Construyo aplicaciones web reales: desde la interfaz hasta la base de datos, la 
 
 ---
 
-## ⭐ Proyectos Destacados
+## Proyectos destacados
 
-### 🌐 [DistroVantix](https://github.com/EnzoPatino/DistroVantix)
-
-[![Vercel](https://img.shields.io/badge/Deploy-Vercel-success?style=flat-square&logo=vercel)](https://distro-vantix.vercel.app/)
-[![GitHub Stars](https://img.shields.io/github/stars/EnzoPatino/DistroVantix?style=flat-square&logo=github)](https://github.com/EnzoPatino/DistroVantix)
+### [DistroVantix](https://github.com/EnzoPatino/DistroVantix) · [![Vercel](https://img.shields.io/badge/Deploy-Vercel-success?style=flat-square&logo=vercel)](https://distro-vantix.vercel.app/)
 
 > Plataforma web que ayuda a usuarios nuevos a elegir su distribución Linux según su perfil: gaming, desarrollo, ciberseguridad, personalización y más.
 
 Rompe la barrera de entrada al ecosistema Linux. Incluye documentación clara, páginas dedicadas por distribución (CachyOS, Bazzite, Kali, Arch, Ubuntu) y un foro comunitario integrado.
 
-**Aspectos técnicos & construcción:**
-- **Autenticación y Roles:** Gestión de usuarios y permisos con Supabase Auth.
-- **Base de Datos & Seguridad:** Foro comunitario persistente en PostgreSQL con políticas **RLS (Row Level Security)** para aislamiento de datos.
-- **UI/UX:** Layout responsive construido en CSS3 nativo, sin frameworks externos.
-- **CI/CD:** Despliegue continuo en Vercel integrado al flujo de trabajo de Git.
-- **Documentación:** Requisitos de usuario, definición de roles y modelo Entidad-Relación (ER).
+**Aspectos técnicos y construcción:**
+- **Autenticación y roles:** gestión de usuarios y permisos con Supabase Auth.
+- **Base de datos y seguridad:** foro persistente en PostgreSQL con políticas **RLS (Row Level Security)**.
+- **UI/UX:** layout responsive construido en CSS3 nativo, sin frameworks externos.
+- **CI/CD:** despliegue continuo en Vercel integrado con GitHub.
+- **Documentación:** requisitos de usuario, definición de roles y modelo entidad-relación (ER).
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,supabase,postgres,vercel" alt="DistroVantix Tech Stack" />
@@ -55,15 +52,15 @@ Rompe la barrera de entrada al ecosistema Linux. Incluye documentación clara, p
 
 ---
 
-### 🚗 [AutoNova](https://github.com/EnzoPatino/Proyecto_Final_Taller)
+### [AutoNova](https://github.com/EnzoPatino/Proyecto_Final_Taller)
 
 > Catálogo web de vehículos con panel de administración CRUD completo.
 
-Sitio con fichas individuales por marca y modelo (Audi, Ferrari, Ford, Mercedes-Benz, Chevrolet) y un panel administrativo para gestionar catálogo, precios y especificaciones en tiempo real.
+Sitio con fichas individuales por marca y modelo, además de un panel administrativo para gestionar catálogo, precios y especificaciones en tiempo real.
 
-**Aspectos técnicos & construcción:**
-- **Backend & Database:** Sistema CRUD desarrollado en PHP nativo conectado a MySQL con consultas preparadas.
-- **Frontend & Admin Panel:** Interfaz de administración responsiva estructurada con Bootstrap y fichas de producto con CSS personalizado.
+**Aspectos técnicos y construcción:**
+- **Backend y base de datos:** sistema CRUD en PHP nativo conectado a MySQL con consultas preparadas.
+- **Frontend y administración:** interfaz responsiva con Bootstrap y fichas de producto con CSS personalizado.
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,php,mysql,bootstrap" alt="AutoNova Tech Stack" />
@@ -71,66 +68,39 @@ Sitio con fichas individuales por marca y modelo (Audi, Ferrari, Ford, Mercedes-
 
 ---
 
-### ⚽ [D1OS Cup](https://github.com/EnzoPatino/D1os-Cup.git)
+## Habilidades técnicas
 
-> Tienda web interactiva para un torneo de fútbol: entradas, indumentaria y accesorios.
+### Backend y bases de datos
+- PHP nativo y programación orientada a soluciones funcionales.
+- PostgreSQL y MySQL con diseño de esquemas, consultas y seguridad.
+- Supabase para autenticación, políticas de acceso y gestión de datos.
 
-Single Page Application (SPA) orientada a e-commerce con navegación lateral, carrito de compras funcional en cliente, filtros por categoría y assets propios.
+### Frontend y UI/UX
+- HTML5 y CSS3 con layouts responsive y estilos propios.
+- JavaScript puro para lógica de estado, manipulación del DOM y UX dinámica.
+- Bootstrap para interfaces claras y rápidas de prototipar.
 
-**Aspectos técnicos & construcción:**
-- **Lógica de Estado:** Carrito de compras en JavaScript puro (Vanilla JS) con manejo de cantidades, cálculo de subtotales y modificación del DOM en tiempo real.
-- **Componentes UI:** Sidebar, topbar, badges, ventanas modales y notificaciones de estado personalizadas.
-
-`HTML5` `CSS3` `JavaScript` `Lucide Icons`
-
----
-
-## 🎓 Habilidades Técnicas
-
-### Backend & Bases de Datos
-- **PHP Nativo:** Desarrollo fullstack sin frameworks, consultas preparadas, validación robusta.
-- **PostgreSQL & MySQL:** Diseño de esquemas, manejo de datos relacionales y seguridad.
-- **Supabase:** Autenticación, políticas de acceso y desarrollo rápido con backend gestionado.
-
-### Frontend & UI/UX
-- **HTML5 + CSS3:** Layouts responsivos, accesibilidad y estilos propios.
-- **JavaScript Vanilla:** DOM, eventos, lógica de estado y optimización de UI.
-- **Bootstrap:** Prototipado y componentes visuales rápidos.
-
-### Infraestructura & DevOps
-- **Linux Administration:** Configuración de `nginx`, permisos, SSH y automatización.
-- **Docker & Docker Compose:** Contenedorización y entornos reproducibles.
-- **CI/CD:** Git + GitHub + despliegues en Vercel.
-- **Seguridad Web:** RLS, sanitización de entradas y control de acceso.
+### Infraestructura y DevOps
+- Linux, SSH, permisos, alojamiento y administración básica de servidores.
+- Docker y Docker Compose para entornos reproducibles.
+- Git y GitHub para versionado, colaboración y despliegue continuo.
+- Seguridad web con sanitización, control de acceso y manejo de variables de entorno.
 
 ---
 
-## 🔧 Enfoque Actual & Infraestructura
+## Enfoque actual
 
 Profundizando activamente en la administración de sistemas y despliegue de software:
 
-- **Servidores Linux:** Configuración de `nginx`, gestión de permisos, acceso remoto seguro vía SSH y automatización.
-- **Contenedorización:** Empaquetado de aplicaciones y entornos de desarrollo reproducible con Docker y `docker-compose`.
-- **Seguridad Web:** Implementación de políticas de acceso (RLS), sanitización de entradas y manejo seguro de variables de entorno.
-- **Despliegue & CI/CD:** Flujos de trabajo continuos con Git, GitHub y entornos de producción en Vercel.
+- Configuración de servidores Linux, `nginx`, permisos y acceso remoto seguro vía SSH.
+- Contenedorización de aplicaciones con Docker y `docker-compose`.
+- Aplicación de políticas de seguridad, RLS y buenas prácticas en entornos web.
+- Automatización e integración continua con Git, GitHub y despliegues en Vercel.
 
 ---
 
-## 📊 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EnzoPatino&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoPatino&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 🤝 Contacto
+## Contacto
 
 - **GitHub:** [@EnzoPatino](https://github.com/EnzoPatino)
-- **Proyecto Principal:** [DistroVantix en vivo](https://distro-vantix.vercel.app/)
+- **Proyecto principal:** [DistroVantix en vivo](https://distro-vantix.vercel.app/)
 
-<p align="center">
-  <strong>Siempre abierto a colaborar en proyectos Open Source.</strong>
-</p>
